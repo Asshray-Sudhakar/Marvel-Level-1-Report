@@ -1,6 +1,5 @@
 #
 # **Asshray's EV-RE Level-1 Report**
-
 # **TASK 1: 3D Printing**
 
 **Objective:** Understand the working of a 3D printer, check out the online resources. Understand what's an STL file, and then learn to slice it. Learn about bed temperature, and other printer settings. Finally get an STL file from the internet, and slice it and put it for print.
@@ -23,7 +22,7 @@ Almost all 3D printed parts (with the exception of Nylon and PETG) can be easily
 
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/3D%20printing%20.jpg?raw=true)
 
-#
+---
 
 # **TASK 2: API**
 
@@ -33,7 +32,7 @@ Almost all 3D printed parts (with the exception of Nylon and PETG) can be easily
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mCXNTMzNNOM?si=M1o8xHaTZlGK65mB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#
+---
 
 # **TASK 3:** **Working with Github**
 
@@ -49,7 +48,7 @@ Almost all 3D printed parts (with the exception of Nylon and PETG) can be easily
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Git%20Img%201.png?raw=true)
 [Click here](https://github.com/Asshray-Sudhakar/git-task) to access the changes I’ve done
 
-#
+---
 
 # **TASK 4: CMD lines on Ubuntu**
 
@@ -59,8 +58,8 @@ Almost all 3D printed parts (with the exception of Nylon and PETG) can be easily
 1\. Give the commands as given in the below image to create 2600 files in a folder named, ‘test’:  
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Creating%202600%20folders.png?raw=true)
 
-2\. Give the commands used in the below image to concatenate:![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Concatanation.png?raw=true)  
-<br/>**Outcomes & Learnings:**  
+2\. Give the commands used in the below image to concatenate:![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Concatanation.png?raw=true) 
+**Outcomes & Learnings:**  
 I learned the use of the below commands in Ubuntu:
 
 1. **To create** a **folder** named test: mkdir test  
@@ -83,9 +82,9 @@ I learned the use of the below commands in Ubuntu:
     Now, to concatenate these 2 files use the cmd: cat blank.txt blank2.txt  
     {_cmd to concatenate 2 files is: cat file1.ext file2.ext_}
 
-    #
+---
 
-    # **TASK 5:** **Kaggle Contest**
+ # **TASK 5:** **Kaggle Contest**
 
 **Objective:** Make a Kaggle account, visit the website, complete the competition & participate in the Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works. The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
@@ -95,7 +94,7 @@ I learned the use of the below commands in Ubuntu:
 
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Submission%20Page.png?raw=true)
 
-#
+---
 
 # **TASK 6: Working with Pandas and Matplotlib**
 
@@ -108,7 +107,7 @@ I learned how to plot the below graphs using Matplotlib & use the programs as gi
 2. Bar Graph: ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Bar%20Graph.png?raw=true)
 3. Scatter Graph: ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Scatter%20Graph.png?raw=true)
 
-#
+---
 
 # **TASK 7: Portfolio Webpage**
 
@@ -120,7 +119,7 @@ I Have learnt basic CSS, HTML and a bit of JavaScript to create a Portfolio webs
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/SS%20of%20Portfolio%20Webpage.png?raw=true)
 [Click here](https://github.com/Asshray-Sudhakar/My-Portfolio-Webpage) to view the files I used for making my webpage
 
-#
+---
 
 # **TASK 9: Tinkercad**
 
@@ -176,7 +175,7 @@ To increase the range and coverage area of the ultrasonic sensor, it can be moun
 <br/>Click [here](https://www.tinkercad.com/things/ajoPjEkm0Od-brilliant-leelo/editel?sharecode=KlwQmxO47N8h7Trhkq6wCY05YNSwVOoHM4HDsB9fmtc) to view my simulated circuit  
 <br/>
 
-#
+---
 
 # **TASK 10: Speed control of DC motor using L298N driver**
 
@@ -226,7 +225,7 @@ Here are the glimpses of me performing this task:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOT-5IVc1LY?si=Dk4uFZw6E0ySkOCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#
+---
 
 # **TASK 11:** **LED Toggle Using ESP32**
 
@@ -247,9 +246,9 @@ After feeding the required code into the ESP32 microcontroller enter the mobile 
 Here are the glimpses of me performing this task:  
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Real%20ckt.jpg?raw=true)
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/LqE1hRuCLlY?si=0gFCXNnNQ6MlnBMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LqE1hRuCLlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#
+---
 
 # **TASK 12: Soldering Prerequisites**
 
@@ -261,7 +260,7 @@ My first experience soldering an LED onto a perf board was great. I inserted the
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Soldering%201%20.jpg?raw=true)
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Soldering%202%20.jpg?raw=true)
 
-#
+---
 
 # **TASK 13:** **555 IC astable multivibrator with 60% duty cycle**
 
@@ -297,7 +296,7 @@ The connections are made on the breadboard as shown in the circuit diagram below
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/555%20IC%20Img%202.jpg?raw=true)
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Oscilloscope%20reading%20.jpg?raw=true)
 
-#
+---
 
 # **TASK 14: K-Map & Deriving Logic Gates**
 
@@ -324,7 +323,7 @@ Below is the simulation of the logic circuit I designed for burglar alarm:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPiOJV_reUQ?si=cmUzsax_A5r0XwjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#
+---
 
 # **TASK 15: Active Participation**
 
@@ -332,7 +331,7 @@ I won 1st place in the Kagada 2023 Project making competition, my project was ab
 
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/Kagada%20Certificate%20.jpg?raw=true)
 
-#
+---
 
 # **TASK 16: Datasheets report writing**
 
@@ -360,5 +359,5 @@ The following images shows the L293D pins:
 3. H-Bridge – to control the rotation direction:  
     The spinning direction of a DC motor can be controlled by changing the polarity of its input voltage. A common technique for doing this is to use an H-bridge. An H-bridge circuit consists of four switches with the motor in the centre forming an H-like arrangement. Closing two specific switches at a time reverses the polarity of the voltage applied to the motor. This causes a change in the spinning direction of the motor.
     
-#
+---
 # ***Thanks for going through my report so diligently.***
