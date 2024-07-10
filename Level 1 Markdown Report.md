@@ -1,5 +1,3 @@
-#
-# **Asshray's EV-RE Level-1 Report**
 # **TASK 1: 3D Printing**
 
 **Objective:** Understand the working of a 3D printer, check out the online resources. Understand what's an STL file, and then learn to slice it. Learn about bed temperature, and other printer settings. Finally get an STL file from the internet, and slice it and put it for print.
@@ -118,6 +116,18 @@ I Have learnt basic CSS, HTML and a bit of JavaScript to create a Portfolio webs
 
 ![](https://github.com/Asshray-Sudhakar/Marvel-Task-1-Images/blob/main/SS%20of%20Portfolio%20Webpage.png?raw=true)
 [Click here](https://github.com/Asshray-Sudhakar/My-Portfolio-Webpage) to view the files I used for making my webpage
+
+---
+
+# **TASK 8: Writing Resource Article using Markdown**
+
+**Objective:** Write a technical resource article on a topic of your choice and post it on the MARVEL website. Refer to the linked article for further details. 
+
+**Outcomes & Learnings:**
+
+My technical article is about converting heat energy from railway tracks to electricity using thermo electric generators (TEGs), which work on the principle of seebeck effect.
+
+[Click here](https://hub.uvcemarvel.in/article/af324c64-0f79-457b-84ac-a8124532ab73) to veiw it
 
 ---
 
@@ -360,4 +370,4 @@ The following images shows the L293D pins:
     The spinning direction of a DC motor can be controlled by changing the polarity of its input voltage. A common technique for doing this is to use an H-bridge. An H-bridge circuit consists of four switches with the motor in the centre forming an H-like arrangement. Closing two specific switches at a time reverses the polarity of the voltage applied to the motor. This causes a change in the spinning direction of the motor.
     
 ---
-# ***Thanks for going through my report so diligently.***
+# ***Thanks for going through my report so diligently !!!***
