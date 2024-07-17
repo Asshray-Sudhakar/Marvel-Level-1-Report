@@ -283,8 +283,8 @@ For this project we’ll need the below components:
 | --- | --- | --- |
 | U1  | 555 IC Timer | 1   |
 | C1  <br>C2 | 0.01 uF Capacitor | 2   |
-| R1  | 10 ohms | 1   |
-| R2  | 20 (10+10) ohms | 1   |
+| R1  | 10 kilo ohms | 1   |
+| R2  | 20 (10+10) kilo ohms | 1   |
 | V1  | VRPS- 5V | 1   |
 
 The connections are made on the breadboard as shown in the circuit diagram below:
